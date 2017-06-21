@@ -4,17 +4,24 @@ title: About Andre
 permalink: /about-andre-woons/
 ---
 
-![image](https://pbs.twimg.com/profile_images/869513458135564288/zpvGpX6__400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/869513458135564288/zpvGpX6__400x400.jpg" width="250px" />
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Bio
+I love creating products that have a positive impact on people's lives. I spend my days trying to achieve just that. I run on coffee :)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Started programming at 14, started my first business at 15. I have completed over 50 freelance projects and am currently trying to make value transfer more personal and efficient with Florin.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Age:** 20 <br />
+**Location:** Amsterdam <br />
+**Twitter:** [@andrewoons](https://twitter.com/@andrewoons) <br />
+**LinkedIn:** [andrewoons](https://www.linkedin.com/in/andrewoons/) <br />
+**Education:** VWO 
 
+### Current
+#### [Florin](https://florinapp.com) (cofounder) <br /> <small>*Feb 2016 - Present*</small>
 
-[jekyll-organization]: https://github.com/jekyll
+### Previous
+#### [Unicmedia](https://unicmedia.nl) (freelance website & application developer) <br /> <small>*Jan 2011 - Present*</small>
+
+#### [Whappbook](https://whappbook.com) (backend developer) <br /> <small>*May 2015 - October 2015*</small>
+
