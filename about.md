@@ -17,8 +17,7 @@ Started programming at 14, started my first business at 15. I have completed ove
 **LinkedIn:** [andrewoons](https://www.linkedin.com/in/andrewoons/) <br />
 
 ### Current
-#### [World Diamond Centre](https://worlddiamondcentre.co) (cofounder) <br /> 
-<small>*Oct 2017 - Present*</small>
+### [World Diamond Centre](https://worlddiamondcentre.co) (cofounder) <br /> <small>*Oct 2017 - Present*</small>
 
 Part of [Entrepreneur First](https://joinef.com). Demo Day March 22nd. 
 
