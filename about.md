@@ -19,10 +19,10 @@ Started programming at 14, started my first business at 15. I have completed ove
 ### Current
 ### [World Diamond Centre](https://worlddiamondcentre.co) (cofounder) <br /> <small>*Oct 2017 - Present*</small>
 
-Part of [Entrepreneur First](https://joinef.com). Demo Day March 22nd. 
+Part of [Entrepreneur First](https://joinef.com).
 
 ### Previous
-### [Florin](https://florinapp.com) (cofounder) <br /> <small>*Feb 2016 - October 2017 </small>
+#### [Florin](https://florinapp.com) (cofounder) <br /> <small>*Feb 2016 - October 2017*</small>
 
 #### [Unicmedia](https://unicmedia.nl) (freelance website & application developer) <br /> <small>*Jan 2011 - Present*</small>
 
