@@ -9,15 +9,15 @@ permalink: /about-andre-woons/
 ### Bio
 I love creating products that have a positive impact on people's lives. I spend my days trying to achieve just that. I run on coffee :)
 
-Started programming at 14, started my first business at 15. I have completed over 50 freelance projects, was on a mission to make value transfer more personal and efficient with Florin and am now on a mission to offer and deliver the world's best quality products at the best prices with World Diamond Centre.
+Started programming at 14, started my first business at 15. I have completed over 50 freelance projects, was on a mission to make value transfer more personal and efficient with Florin and am now on a mission to offer and deliver the world's best quality products at the best prices with Nivoda.
 
 **Age:** 21 <br />
-**Location:** Hong Kong, London, Amsterdam <br />
+**Locations:** Hong Kong, London, Amsterdam <br />
 **Twitter:** [@andrewoons](https://twitter.com/@andrewoons) <br />
 **LinkedIn:** [andrewoons](https://www.linkedin.com/in/andrewoons/) <br />
 
 ### Current
-### [World Diamond Centre](https://worlddiamondcentre.co) (cofounder) <br /> <small>*Oct 2017 - Present*</small>
+### [Nivoda](https://nivoda.net) (cofounder) <br /> <small>*Oct 2017 - Present*</small>
 
 Part of [Entrepreneur First](https://joinef.com).
 
