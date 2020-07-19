@@ -16,12 +16,12 @@
 title: Andre Woons
 email: andre.woons@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Andre Woons is currently the cofounder of Nivoda. He has worked as a freelance website and
+  Andre Woons is CTO & cofounder of Nivoda. He has worked as a freelance website and
   application developer for over 5 years and previously co-founded Florin, a payment startup.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewoons.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://andrewoons.com' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andrewoons
-github_username:  andrewoons
+github_username: andrewoons
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,6 @@ plugins:
   - jekyll-gist
 
 google_analytics: UA-16177906-18
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
