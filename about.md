@@ -23,9 +23,11 @@ Prior to that, I was on a mission to make value transfer more personal and effic
 
 ### [Nivoda](https://nivoda.net) (cofounder) <br /> <small>_Oct 2017 - Present_</small>
 
+#### [Intrinsik](https://intrinsik.ly) (technical advisor) <br /> <small>_Dec 2017 - Present_</small>
+
 ### Previous
 
-#### [Part of Entrepreneur First EF9](https://joinef.com) <br /> <small>_Oct 2017 - March 2018_</small>
+#### [Entrepreneur First ](https://joinef.com) (EF9 cohort)<br /> <small>_Oct 2017 - March 2018_</small>
 
 #### [Florin](https://florinapp.com) (cofounder) <br /> <small>_Feb 2016 - October 2017_</small>
 
