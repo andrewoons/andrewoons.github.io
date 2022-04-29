@@ -8,14 +8,14 @@ permalink: /about-andre-woons/
 
 ### Bio
 
-I love creating products that have a positive impact on people's personal or professional lives. I spend my days trying to achieve just that. I run on coffee :)
+I love creating & building products that have a positive impact on people's personal or professional lives. I spend my days trying to achieve just that. I run on coffee :)
 
-I am co-founder and CTO at [Nivoda](https://nivoda.net), which is the fastest, easiest and most profitable way to buy and sell diamonds.
+I am co-founder and CTO at [Nivoda](https://nivoda.net), the #1 marketplace for the jewellery industry.
 
 Prior to that, I was on a mission to make value transfer more personal and efficient with Florin. I started programming at age 14 and started my first business at age 15, having completed over 50 freelance projects.
 
-**Age:** 23 <br />
-**Location:** Hong Kong<br />
+**Age:** 25 <br />
+**Location:** Leiden, the Netherlands<br />
 **Twitter:** [@andrewoons](https://twitter.com/@andrewoons) <br />
 **LinkedIn:** [andrewoons](https://www.linkedin.com/in/andrewoons/) <br />
 
